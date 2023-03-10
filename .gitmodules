@@ -1,3 +1,6 @@
 [submodule "interbotix_ros_core"]
 	path = interbotix_ros_core
 	url = https://github.com/Dorteel/interbotix_ros_core.git
+[submodule "interbotix_ros_rovers"]
+	path = interbotix_ros_rovers
+	url = https://github.com/Dorteel/interbotix_ros_rovers.git
